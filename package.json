@@ -4,8 +4,7 @@
   "description": "Example for SocketIo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon index.js"
+    "test":"nodemon index.js"
   },
   "author": "JoseO",
   "license": "ISC",
